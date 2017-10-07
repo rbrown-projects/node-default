@@ -1,0 +1,14 @@
+{
+  "name": "default-http-server",
+  "version": "1.0.0",
+  "description": "default server for this ec2 instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.1"
+  }
+}
